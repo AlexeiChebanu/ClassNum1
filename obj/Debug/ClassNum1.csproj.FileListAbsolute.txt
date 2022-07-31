@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Self-education\Beetroot\ClassNum1\ClassNum1\bin\Debug\ClassNum1.exe.config
+C:\Users\User\Desktop\Self-education\Beetroot\ClassNum1\ClassNum1\bin\Debug\ClassNum1.exe
+C:\Users\User\Desktop\Self-education\Beetroot\ClassNum1\ClassNum1\bin\Debug\ClassNum1.pdb
+C:\Users\User\Desktop\Self-education\Beetroot\ClassNum1\ClassNum1\obj\Debug\ClassNum1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Self-education\Beetroot\ClassNum1\ClassNum1\obj\Debug\ClassNum1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Self-education\Beetroot\ClassNum1\ClassNum1\obj\Debug\ClassNum1.exe
+C:\Users\User\Desktop\Self-education\Beetroot\ClassNum1\ClassNum1\obj\Debug\ClassNum1.pdb
